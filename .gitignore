@@ -1,5 +1,24 @@
+# Obsidian local workspace
 .obsidian/
 .trash/
+
+# Operating system files
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Temporary and cache files
+*.tmp
+*.temp
+*.bak
+*.swp
+~$*
+
+# Python cache, in case helper scripts are added later
+__pycache__/
+*.py[cod]
+.pytest_cache/
