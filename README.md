@@ -43,6 +43,19 @@ The current template is available here:
 
 - [Paper Literature Note Template](./Templates/Paper%20Literature%20Note.md)
 
+## Reading Workflow
+
+My paper-reading workflow follows Mu Li's three-pass paper reading method. I first skim the paper to understand the title, abstract, figures, and overall contribution. Then I read more carefully to understand the method, assumptions, experiments, and results. Finally, I revisit the paper in depth when I need to connect it to other work or write a more complete note.
+
+I use Zotero for reading and annotation. Highlight colors have specific meanings:
+
+- **Yellow:** ordinary important points, definitions, methods, or results.
+- **Green:** parts I do not fully understand yet.
+- **Red:** possible problems, weaknesses, limitations, or questionable claims.
+- **Blue:** strengths, elegant ideas, or things the paper does especially well.
+
+After reading, I use these highlights to fill in the note template, turning annotations into structured summaries, critiques, and follow-up questions.
+
 ## How To Use
 
 - Browse notes by folder from the [Repository Structure](#repository-structure) section.

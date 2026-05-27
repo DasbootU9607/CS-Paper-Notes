@@ -7,7 +7,6 @@ year: "2012"
 venue: NIPS
 doi:
 url: https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html
-zotero:
 pdf: https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
 code: https://github.com/computerhistory/AlexNet-Source-Code
 tags:

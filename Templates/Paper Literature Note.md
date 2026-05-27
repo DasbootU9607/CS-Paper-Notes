@@ -7,7 +7,6 @@ year:
 venue:
 doi:
 url:
-zotero:
 pdf:
 code:
 tags:
