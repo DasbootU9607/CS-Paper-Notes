@@ -5,6 +5,8 @@ title:
 authors:
 year:
 venue:
+last_updated:
+github_user:
 doi:
 url:
 pdf:

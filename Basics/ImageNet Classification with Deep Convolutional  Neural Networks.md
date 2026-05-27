@@ -5,6 +5,8 @@ title: ImageNet Classification with Deep Convolutional Neural Networks
 authors: Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton
 year: "2012"
 venue: NIPS
+last_updated: 2026-05-27
+github_user: DasbootU9607
 doi:
 url: https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html
 pdf: https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
