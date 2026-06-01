@@ -6,7 +6,7 @@ Markdown reading notes for computer science papers. The repository is organized 
 
 | Folder | What it contains |
 | --- | --- |
-| [AI4H](./AI4H/) | AI for health, clinical gait analysis, pose estimation, and medical movement assessment papers. |
+| [AI4H](./AI4H/) | AI for healthcare papers. |
 | [Basics](./Basics/) | Foundational AI, machine learning, and computer vision papers. |
 | [Templates](./Templates/) | Reusable note templates for new paper notes. |
 
