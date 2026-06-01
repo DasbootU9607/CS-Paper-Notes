@@ -1,4 +1,4 @@
-# CS Paper Notes
+﻿# CS Paper Notes
 
 This repository collects my reading notes for computer science research papers. The notes are written in Markdown and organized for review in Obsidian or directly on GitHub.
 
@@ -6,9 +6,9 @@ This repository collects my reading notes for computer science research papers. 
 
 | Folder | Description | Notes |
 | --- | --- | --- |
+| [AI4H](./AI4H/) | Papers and notes on artificial intelligence for healthcare, clinical analysis, and medical decision support. | Focused AI-for-health reading notes. |
 | [Basics](./Basics/) | Foundational papers and core concepts in AI, ML, and computer vision. | Start here for classic papers. |
-| [Templates](./Templates/) | Reusable templates for future literature notes. | Use this to keep note format consistent. |
-
+| [Templates](./Templates/) | Reusable templates for future literature notes, organized by module. | Use these to keep note format consistent. |
 ## Paper Notes
 
 ### Basics
