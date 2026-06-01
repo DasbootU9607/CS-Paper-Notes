@@ -4,6 +4,8 @@ authors: Felipe García-Pinillos, Diego Jaén-Carrillo, Victor Soto Hermoso, Ped
 journal: JMIR mHealth and uHealth
 year: "2020"
 doi: 10.2196/19498
+last_updated: 2026-06-01
+github_user: DasbootU9607
 priority: High
 status: Read
 ---
