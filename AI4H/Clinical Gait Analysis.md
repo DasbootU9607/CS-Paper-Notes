@@ -11,7 +11,7 @@ doi: https://doi.org/10.1371/journal.pdig.0000467
 priority: High
 status: Read
 ---
-# Clinical gait analysis using video-based pose estimation
+# Clinical gait analysis using video-based pose estimation: Multiple perspectives, clinical populations, and measuring change
 
   
 
