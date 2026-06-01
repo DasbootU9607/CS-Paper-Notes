@@ -18,6 +18,7 @@ status: Read
 ## 1. Overview
   
 
+
 | Item               | Notes                                                                                                                                |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
 | Relevance          | High                                                                                                                                 |
@@ -115,7 +116,6 @@ status: Read
 
   
 
-
 ## 7. Implications 
 
   
@@ -140,9 +140,3 @@ status: Read
 | Should it be cited?            | Yes    | It directly supports low-cost video gait analysis, multi-view validation, clinical populations, and comparison with 3D motion capture.                                                                         |
 | Should it be reread carefully? | Yes    | Reread the Methods, Table 1, Table 2, and Discussion when writing the PosePro validation plan.                                                                                                                 |
 | One-sentence summary           | NA     | Low-cost tablet videos plus OpenPose can estimate several clinically relevant gait parameters in neurological populations, but accuracy depends strongly on camera view, parameter type, and clinical context. |
-
-  
-
-
-  
-
