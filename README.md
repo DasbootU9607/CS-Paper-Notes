@@ -17,7 +17,7 @@ This repository collects my reading notes for computer science research papers. 
 | Paper | Topic | Year | Status |
 | --- | --- | --- | --- |
 | [Clinical Gait Analysis](./AI4H/Clinical%20Gait%20Analysis.md) | Healthcare AI, clinical gait analysis, human movement assessment | 2026 | Read |
-| [VisonMD](./AI4H/VisonMD.md) | Medical AI, vision-language models, clinical decision support | 2026 | Read |
+| [VisonMD-Gait](./AI4H/VisonMD.md) | Medical AI, vision-language models, clinical decision support | 2026 | Read |
 
 ### Basics
 
