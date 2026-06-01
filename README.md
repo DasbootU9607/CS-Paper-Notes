@@ -1,4 +1,4 @@
-﻿# CS Paper Notes
+# CS Paper Notes
 
 This repository collects my reading notes for computer science research papers. The notes are written in Markdown and organized for review in Obsidian or directly on GitHub.
 
@@ -11,12 +11,18 @@ This repository collects my reading notes for computer science research papers. 
 | [Templates](./Templates/) | Reusable templates for future literature notes, organized by module. | Use these to keep note format consistent. |
 ## Paper Notes
 
+### AI4H
+
+| Paper | Topic | Year | Status |
+| --- | --- | --- | --- |
+| [Clinical Gait Analysis](./AI4H/Clinical%20Gait%20Analysis.md) | Healthcare AI, clinical gait analysis, human movement assessment | 2026 | Read |
+| [VisonMD](./AI4H/VisonMD.md) | Medical AI, vision-language models, clinical decision support | 2026 | Read |
+
 ### Basics
 
 | Paper | Topic | Year | Status |
 | --- | --- | --- | --- |
 | [ImageNet Classification with Deep Convolutional Neural Networks](./Basics/ImageNet%20Classification%20with%20Deep%20Convolutional%20%20Neural%20Networks.md) | Computer Vision, Deep Learning, CNNs, ImageNet | 2012 | Read |
-
 ## Note Format
 
 The current template is available here:
