@@ -10,12 +10,6 @@ This repository collects my reading notes for computer science research papers. 
 | [Basics](./Basics/) | Foundational papers and core concepts in AI, ML, and computer vision. | Start here for classic papers. |
 | [Templates](./Templates/) | Reusable templates for future literature notes, organized by module. | Use these to keep note format consistent. |
 
-## Current Coverage
-
-- **Total notes:** 5 read paper notes.
-- **AI4H focus:** video-based and markerless gait assessment, validation against reference systems, gait parameter selection, and clinical deployment limits.
-- **Reference systems covered:** 3D motion capture, GAITRite, OptoGait, high-speed video, and wearable IMU-based motion capture.
-- **Basics focus:** foundational computer vision and deep learning papers.
 
 ## Paper Notes
 
