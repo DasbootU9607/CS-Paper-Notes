@@ -1,9 +1,11 @@
 ---
 title: "VisionMD-Gait: scalable clinical gait assessment from smartphone videos"
-authors: Shuyu Liu, Alvin Wong, Si Chen, Patrick J. Antonelli & Diego L. Guarín
+authors: Shuyu Liu, Alvin Wong, Si Chen, Patrick J. Antonelli, Diego L. Guarín
 journal: Scientific Reports
 year: "2026"
 doi: https://doi.org/10.1038/s41598-025-34912-5
+last_updated: 2026-06-01
+github_user: DasbootU9607
 priority: High
 status: Read
 ---
