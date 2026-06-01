@@ -92,17 +92,8 @@ status: todo
 
 -
 
-  
-
-| Question                                                                   | Notes |
-| -------------------------------------------------------------------------- | ----- |
-| Which parameters had larger errors?                                        |       |
-| Did video angle, lighting, occlusion, or walking direction affect results? |       |
-| Is the evidence limited to specific populations or settings?               |       |
-| Any warning about step width, joint angles, or abnormal gait?              |       |
 
   
-
 ## 7. Implications
 
   
@@ -122,11 +113,9 @@ status: todo
 
   
 
-| Question                       | Judgment |
-| ------------------------------ | -------- |
-| Core paper?                    | Yes / No |
-| Should it be cited?            | Yes / No |
-| Should it be reread carefully? | Yes / No |
-| One-sentence summary           |          |
-
-  
+| Question                       | Yes/No | Judgment |
+| ------------------------------ | ------ | -------- |
+| Core paper?                    |        |          |
+| Should it be cited?            |        |          |
+| Should it be reread carefully? |        |          |
+| One-sentence summary           | NA     |          |
