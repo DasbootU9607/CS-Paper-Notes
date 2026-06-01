@@ -1,49 +1,52 @@
 # CS Paper Notes
 
-Markdown reading notes for computer science papers. The repository is organized for quick review in GitHub or Obsidian.
+This repository collects my reading notes for computer science research papers. The notes are written in Markdown and organized for review in Obsidian or directly on GitHub.
 
-## Structure
+## Repository Structure
 
-| Folder | What it contains |
-| --- | --- |
-| [AI4H](./AI4H/) | AI for healthcare papers. |
-| [Basics](./Basics/) | Foundational AI, machine learning, and computer vision papers. |
-| [Templates](./Templates/) | Reusable note templates for new paper notes. |
+| Folder | Description | Notes |
+| --- | --- | --- |
+| [AI4H](./AI4H/) | Papers and notes on artificial intelligence for healthcare, clinical analysis, and medical decision support. | Focused AI-for-health reading notes. |
+| [Basics](./Basics/) | Foundational papers and core concepts in AI, ML, and computer vision. | Start here for classic papers. |
+| [Templates](./Templates/) | Reusable templates for future literature notes, organized by module. | Use these to keep note format consistent. |
 
-## Notes
+## Paper Notes
 
 ### AI4H
 
-| Note | Paper | Year | Venue | DOI / Link | Main focus |
-| --- | --- | --- | --- | --- | --- |
-| [Clinical Gait Analysis](./AI4H/Clinical%20Gait%20Analysis.md) | Clinical gait analysis using video-based pose estimation: Multiple perspectives, clinical populations, and measuring change | 2024 | PLOS Digital Health | [10.1371/journal.pdig.0000467](https://doi.org/10.1371/journal.pdig.0000467) | Video-based pose estimation for clinical gait analysis against 3D motion capture. |
-| [Spatiotemporal Gait Parameters](./AI4H/Spatiotemporal%20Gait%20Parameters.md) | Agreement Between Spatiotemporal Gait Parameters Measured by a Markerless Motion Capture System and Two Reference Systems—a Treadmill-Based Photoelectric Cell and High-Speed Video Analyses: Comparative Study | 2020 | JMIR mHealth and uHealth | [10.2196/19498](https://doi.org/10.2196/19498) | Kinect + MotionMetrix agreement with OptoGait and 1000 Hz high-speed video during treadmill running. |
-| [VisionMD-Gait](./AI4H/VisonMD.md) | VisionMD-Gait: scalable clinical gait assessment from smartphone videos | 2026 | Scientific Reports | [10.1038/s41598-025-34912-5](https://doi.org/10.1038/s41598-025-34912-5) | Smartphone-video gait assessment validated against wearable motion capture. |
+| Paper | Topic | Year | Status |
+| --- | --- | --- | --- |
+| [Clinical gait analysis using video-based pose estimation: Multiple perspectives, clinical populations, and measuring change](./AI4H/Clinical%20Gait%20Analysis.md) | Healthcare AI, clinical gait analysis, human movement assessment | 2024 | Read |
+| [VisionMD-Gait: scalable clinical gait assessment from smartphone videos](./AI4H/VisonMD.md) | Medical AI, vision-language models, clinical decision support | 2026 | Read |
 
 ### Basics
 
-| Note | Paper | Year | Venue / Link | Main focus |
-| --- | --- | --- | --- | --- |
-| [ImageNet Classification with Deep Convolutional Neural Networks](./Basics/ImageNet%20Classification%20with%20Deep%20Convolutional%20%20Neural%20Networks.md) | ImageNet Classification with Deep Convolutional Neural Networks | 2012 | [NIPS 2012](https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) | AlexNet, large-scale CNN training, ImageNet classification. |
+| Paper | Topic | Year | Status |
+| --- | --- | --- | --- |
+| [ImageNet Classification with Deep Convolutional Neural Networks](./Basics/ImageNet%20Classification%20with%20Deep%20Convolutional%20%20Neural%20Networks.md) | Computer Vision, Deep Learning, CNNs, ImageNet | 2012 | Read |
 
 ## Note Format
 
-Each note usually includes:
-
-- paper metadata: title, authors, venue, year, DOI or URL;
-- study design or method summary;
-- tested parameters, datasets, or experiments;
-- main results and limitations;
-- implications for future projects or writing.
-
-Use these templates for new notes:
+The current templates are organized by module:
 
 - [AI4H Note Template](./Templates/AI4H%20Note%20Template.md)
 - [Basics Paper Note Template](./Templates/Basics%20Paper%20Note%20Template.md)
 
-## Workflow
+## Reading Workflow
 
-1. Skim the title, abstract, figures, and conclusion.
-2. Read methods and results carefully enough to extract the actual evidence.
-3. Record limitations, assumptions, and reusable metrics.
-4. Convert highlights into a structured Markdown note.
+My paper-reading workflow follows Mu Li's three-pass paper reading method. I first skim the paper to understand the title, abstract, figures, and overall contribution. Then I read more carefully to understand the method, assumptions, experiments, and results. Finally, I revisit the paper in depth when I need to connect it to other work or write a more complete note.
+
+I use Zotero for reading and annotation. Highlight colors have specific meanings:
+
+- **Yellow:** ordinary important points, definitions, methods, or results.
+- **Green:** parts I do not fully understand yet.
+- **Red:** possible problems, weaknesses, limitations, or questionable claims.
+- **Blue:** strengths, elegant ideas, or things the paper does especially well.
+
+After reading, I use these highlights to fill in the note template, turning annotations into structured summaries, critiques, and follow-up questions.
+
+## How To Use
+
+- Browse notes by folder from the [Repository Structure](#repository-structure) section.
+- Open individual paper notes from the [Paper Notes](#paper-notes) table.
+- Create new notes from the module-specific templates in [Templates](./Templates/).
