@@ -12,18 +12,33 @@ This repository collects my reading notes for computer science research papers. 
 
 ## Paper Notes
 
+The note tables use short display names so the README stays readable on GitHub. Full original paper titles are preserved below each table.
+
 ### AI4H
 
-| Paper | Topic | Year | Status |
+| Note | Year | Status | Focus |
 | --- | --- | --- | --- |
-| [Clinical gait analysis using video-based pose estimation: Multiple perspectives, clinical populations, and measuring change](./AI4H/Clinical%20Gait%20Analysis.md) | Healthcare AI, clinical gait analysis, human movement assessment | 2024 | Read |
-| [VisionMD-Gait: scalable clinical gait assessment from smartphone videos](./AI4H/VisonMD.md) | Medical AI, vision-language models, clinical decision support | 2026 | Read |
+| [Clinical Gait Analysis](./AI4H/Clinical%20Gait%20Analysis.md) | 2024 | Read | Video-based pose estimation for clinical gait analysis. |
+| [Monocular 3D Gait Assessment](./AI4H/Monocular%203D%20Gait%20Assessment%20via%20Deep%20Learning.md) | 2021 | Read | Monocular smartphone-video gait parameters validated against GAITRite. |
+| [Spatiotemporal Gait Parameters](./AI4H/Spatiotemporal%20Gait%20Parameters.md) | 2020 | Read | Markerless gait parameters compared with OptoGait and high-speed video. |
+| [VisionMD-Gait](./AI4H/VisonMD.md) | 2026 | Read | Smartphone-video clinical gait assessment. |
+
+**Full paper titles**
+
+- Clinical Gait Analysis: Clinical gait analysis using video-based pose estimation: Multiple perspectives, clinical populations, and measuring change.
+- Monocular 3D Gait Assessment: Algorithm based on one monocular video delivers highly valid and reliable gait parameters.
+- Spatiotemporal Gait Parameters: Agreement Between Spatiotemporal Gait Parameters Measured by a Markerless Motion Capture System and Two Reference Systems: a Treadmill-Based Photoelectric Cell and High-Speed Video Analyses: Comparative Study.
+- VisionMD-Gait: VisionMD-Gait: scalable clinical gait assessment from smartphone videos.
 
 ### Basics
 
-| Paper | Topic | Year | Status |
+| Note | Year | Status | Focus |
 | --- | --- | --- | --- |
-| [ImageNet Classification with Deep Convolutional Neural Networks](./Basics/ImageNet%20Classification%20with%20Deep%20Convolutional%20%20Neural%20Networks.md) | Computer Vision, Deep Learning, CNNs, ImageNet | 2012 | Read |
+| [AlexNet](./Basics/AlexNet.md) | 2012 | Read | Large-scale CNN image classification on ImageNet. |
+
+**Full paper titles**
+
+- AlexNet: ImageNet Classification with Deep Convolutional Neural Networks.
 
 ## Note Format
 
