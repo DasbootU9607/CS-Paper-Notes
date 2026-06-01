@@ -49,4 +49,4 @@ After reading, I use these highlights to fill in the note template, turning anno
 
 - Browse notes by folder from the [Repository Structure](#repository-structure) section.
 - Open individual paper notes from the [Paper Notes](#paper-notes) table.
-- Create new notes from the template in [Templates](./Templates/).
+- Create new notes from the module-specific templates in [Templates](./Templates/).
