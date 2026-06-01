@@ -1,6 +1,6 @@
 # CS Paper Notes
 
-This repository collects my reading notes for computer science and machine learning papers. The notes are written in Markdown and organized for review in Obsidian or directly on GitHub.
+This repository collects my reading notes for computer science research papers. The notes are written in Markdown and organized for review in Obsidian or directly on GitHub.
 
 ## Repository Structure
 
