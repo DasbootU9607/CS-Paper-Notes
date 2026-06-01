@@ -8,7 +8,9 @@ This repository collects my reading notes for computer science research papers. 
 | --- | --- | --- |
 | [AI4H](./AI4H/) | Papers and notes on artificial intelligence for healthcare, clinical analysis, and medical decision support. | Focused AI-for-health reading notes. |
 | [Basics](./Basics/) | Foundational papers and core concepts in AI, ML, and computer vision. | Start here for classic papers. |
-| [Templates](./Templates/) | Reusable templates for future literature notes, organized by module. | Use these to keep note format consistent. |`n`n## Paper Notes
+| [Templates](./Templates/) | Reusable templates for future literature notes, organized by module. | Use these to keep note format consistent. |
+
+## Paper Notes
 
 ### AI4H
 
@@ -21,12 +23,15 @@ This repository collects my reading notes for computer science research papers. 
 
 | Paper | Topic | Year | Status |
 | --- | --- | --- | --- |
-| [ImageNet Classification with Deep Convolutional Neural Networks](./Basics/ImageNet%20Classification%20with%20Deep%20Convolutional%20%20Neural%20Networks.md) | Computer Vision, Deep Learning, CNNs, ImageNet | 2012 | Read |`n`n## Note Format
+| [ImageNet Classification with Deep Convolutional Neural Networks](./Basics/ImageNet%20Classification%20with%20Deep%20Convolutional%20%20Neural%20Networks.md) | Computer Vision, Deep Learning, CNNs, ImageNet | 2012 | Read |
+
+## Note Format
 
 The current templates are organized by module:
 
 - [AI4H Note Template](./Templates/AI4H%20Note%20Template.md)
 - [Basics Paper Note Template](./Templates/Basics%20Paper%20Note%20Template.md)
+
 ## Reading Workflow
 
 My paper-reading workflow follows Mu Li's three-pass paper reading method. I first skim the paper to understand the title, abstract, figures, and overall contribution. Then I read more carefully to understand the method, assumptions, experiments, and results. Finally, I revisit the paper in depth when I need to connect it to other work or write a more complete note.
