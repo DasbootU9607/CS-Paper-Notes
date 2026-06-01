@@ -17,7 +17,7 @@ This repository collects my reading notes for computer science research papers. 
 | Paper | Topic | Year | Status |
 | --- | --- | --- | --- |
 | [Clinical gait analysis using video-based pose estimation: Multiple perspectives, clinical populations, and measuring change](./AI4H/Clinical%20Gait%20Analysis.md) | Healthcare AI, clinical gait analysis, human movement assessment | 2026 | Read |
-| [VisonMD-Gait](./AI4H/VisonMD.md) | Medical AI, vision-language models, clinical decision support | 2026 | Read |
+| [VisionMD-Gait: scalable clinical gait assessment from smartphone videos](./AI4H/VisonMD.md) | Medical AI, vision-language models, clinical decision support | 2026 | Read |
 
 ### Basics
 
