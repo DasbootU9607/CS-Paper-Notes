@@ -23,6 +23,9 @@ The note tables use short display names so the README stays readable on GitHub. 
 | [Monocular 3D Gait Assessment](./AI4H/Monocular%203D%20Gait%20Assessment%20via%20Deep%20Learning.md) | 2021 | [Scientific Reports](https://doi.org/10.1038/s41598-021-93530-z) | Read | Monocular smartphone-video gait parameters validated against GAITRite. |
 | [Spatiotemporal Gait Parameters](./AI4H/Spatiotemporal%20Gait%20Parameters.md) | 2020 | [JMIR mHealth and uHealth](https://doi.org/10.2196/19498) | Read | Markerless gait parameters compared with OptoGait and high-speed video. |
 | [VisionMD-Gait](./AI4H/VisonMD.md) | 2026 | [Scientific Reports](https://doi.org/10.1038/s41598-025-34912-5) | Read | Smartphone-video clinical gait assessment. |
+| [MotionMetrix-Qualisys Agreement](./AI4H/MotionMetrix-Qualisys%20Agreement.md) | 2023 | [Sensors](https://doi.org/10.3390/s23104576) | Read | MotionMetrix markerless gait measurements compared with Qualisys 3D motion capture. |
+| [Multiple Pose Trackers for Older Adult Gait](./AI4H/Multiple%20Pose%20Trackers%20for%20Older%20Adult%20Gait.md) | 2021 | [Journal of NeuroEngineering and Rehabilitation](https://doi.org/10.1186/s12984-021-00933-0) | Read | RGB-video pose tracking for older-adult gait across trackers, camera heights, and walking directions. |
+| [Smartphone Location for Markerless Gait Analysis](./AI4H/Smartphone%20Location%20for%20Markerless%20Gait%20Analysis.md) | 2024 | [Bioengineering](https://doi.org/10.3390/bioengineering11020141) | Read | Smartphone camera location effects on markerless pose-estimation gait analysis. |
 
 ### Basics
 
